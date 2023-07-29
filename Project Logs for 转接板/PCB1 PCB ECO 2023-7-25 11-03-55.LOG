@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=CN1 NewDesignator=PE9
+Change Component Designator: OldDesignator=CN2 NewDesignator=PE11
+Change Component Designator: OldDesignator=CN3 NewDesignator=PE13
+Change Component Designator: OldDesignator=CN4 NewDesignator=PE14
+Change Component Designator: OldDesignator=CN5 NewDesignator=PB6
+Change Component Designator: OldDesignator=CN6 NewDesignator=PB7
+Change Component Designator: OldDesignator=CN7 NewDesignator=PB8
+Change Component Designator: OldDesignator=CN8 NewDesignator=PB9
+Added Member To Class: ClassName=Sheet1 Member=Component POWER MR30-M

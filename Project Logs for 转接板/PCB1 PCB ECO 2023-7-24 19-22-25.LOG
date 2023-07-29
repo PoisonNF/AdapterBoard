@@ -1,0 +1,128 @@
+Change Component Footprint: Designator=CN1 Old Footprint=CONN-TH_3P-P3.81_KF2EDGV-3.81-3P New Footprint=CONN-TH_MR30-M
+Change Component Footprint: Designator=CN2 Old Footprint=CONN-TH_3P-P3.81_KF2EDGV-3.81-3P New Footprint=CONN-TH_MR30-M
+Change Component Footprint: Designator=CN3 Old Footprint=CONN-TH_3P-P3.81_KF2EDGV-3.81-3P New Footprint=CONN-TH_MR30-M
+Change Component Footprint: Designator=CN4 Old Footprint=CONN-TH_3P-P3.81_KF2EDGV-3.81-3P New Footprint=CONN-TH_MR30-M
+Change Component Footprint: Designator=CN5 Old Footprint=CONN-TH_3P-P3.81_KF2EDGV-3.81-3P New Footprint=CONN-TH_MR30-M
+Change Component Footprint: Designator=CN6 Old Footprint=CONN-TH_3P-P3.81_KF2EDGV-3.81-3P New Footprint=CONN-TH_MR30-M
+Change Component Footprint: Designator=CN7 Old Footprint=CONN-TH_3P-P3.81_KF2EDGV-3.81-3P New Footprint=CONN-TH_MR30-M
+Change Component Footprint: Designator=CN8 Old Footprint=CONN-TH_3P-P3.81_KF2EDGV-3.81-3P New Footprint=CONN-TH_MR30-M
+Change Component Comment : Designator=CN1 Old Comment=KF2EDGV-3.81-3P New Comment=MR30-M
+Change Component Comment : Designator=CN2 Old Comment=KF2EDGV-3.81-3P New Comment=MR30-M
+Change Component Comment : Designator=CN3 Old Comment=KF2EDGV-3.81-3P New Comment=MR30-M
+Change Component Comment : Designator=CN4 Old Comment=KF2EDGV-3.81-3P New Comment=MR30-M
+Change Component Comment : Designator=CN5 Old Comment=KF2EDGV-3.81-3P New Comment=MR30-M
+Change Component Comment : Designator=CN6 Old Comment=KF2EDGV-3.81-3P New Comment=MR30-M
+Change Component Comment : Designator=CN7 Old Comment=KF2EDGV-3.81-3P New Comment=MR30-M
+Change Component Comment : Designator=CN8 Old Comment=KF2EDGV-3.81-3P New Comment=MR30-M
+Change component parameters: Designator = "CN1" ("CN1"); Footprint = "CONN-TH_3P-P3.81_KF2EDGV-3.81-3P"; UniqueID = "\TLLVWTPV" ("\TLLVWTPV")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170412/1491969315720.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)锂电池三芯电源连接器公头MR30-M 2件套"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C99873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN2" ("CN2"); Footprint = "CONN-TH_3P-P3.81_KF2EDGV-3.81-3P"; UniqueID = "\DXSSLWSD" ("\DXSSLWSD")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170412/1491969315720.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)锂电池三芯电源连接器公头MR30-M 2件套"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C99873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN3" ("CN3"); Footprint = "CONN-TH_3P-P3.81_KF2EDGV-3.81-3P"; UniqueID = "\EJDMPRRN" ("\EJDMPRRN")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170412/1491969315720.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)锂电池三芯电源连接器公头MR30-M 2件套"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C99873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN4" ("CN4"); Footprint = "CONN-TH_3P-P3.81_KF2EDGV-3.81-3P"; UniqueID = "\FHGWXFPV" ("\FHGWXFPV")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170412/1491969315720.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)锂电池三芯电源连接器公头MR30-M 2件套"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C99873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN5" ("CN5"); Footprint = "CONN-TH_3P-P3.81_KF2EDGV-3.81-3P"; UniqueID = "\XILZBOUN" ("\XILZBOUN")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170412/1491969315720.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)锂电池三芯电源连接器公头MR30-M 2件套"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C99873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN6" ("CN6"); Footprint = "CONN-TH_3P-P3.81_KF2EDGV-3.81-3P"; UniqueID = "\RLXYRQVY" ("\RLXYRQVY")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170412/1491969315720.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)锂电池三芯电源连接器公头MR30-M 2件套"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C99873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN7" ("CN7"); Footprint = "CONN-TH_3P-P3.81_KF2EDGV-3.81-3P"; UniqueID = "\SGRVEYHE" ("\SGRVEYHE")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170412/1491969315720.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)锂电池三芯电源连接器公头MR30-M 2件套"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C99873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CN8" ("CN8"); Footprint = "CONN-TH_3P-P3.81_KF2EDGV-3.81-3P"; UniqueID = "\FIFYXWUJ" ("\FIFYXWUJ")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170412/1491969315720.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)锂电池三芯电源连接器公头MR30-M 2件套"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "MR30-M"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C99873"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "MR30-M"; VariantName = "[No Variations]"

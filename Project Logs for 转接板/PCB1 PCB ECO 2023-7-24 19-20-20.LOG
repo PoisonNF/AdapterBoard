@@ -1,0 +1,15 @@
+Added Component: Designator=U??(CONN-TH_MR30-M)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20170412/1491969315720.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "AMASS(艾迈斯)锂电池三芯电源连接器公头MR30-M 2件套"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AMASS(艾迈斯)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "MR30-M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C99873"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "MR30-M"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component U?? MR30-M

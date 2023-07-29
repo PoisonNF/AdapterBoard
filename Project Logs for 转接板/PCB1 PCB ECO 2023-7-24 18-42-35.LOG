@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=PA13 Pin=CN9-1
+Removed Pin From Net: NetName=PA14 Pin=CN9-2
+Removed Pin From Net: NetName=GND Pin=CN9-3
+Change Component Footprint: Designator=CN9 Old Footprint=CONN-TH_3P-P3.81_KF2EDGV-3.81-3P New Footprint=CONN-TH_5P-P3.50_KF2EDGR-3.5-5P
+Change Component Comment : Designator=CN9 Old Comment=KF2EDGV-3.81-3P New Comment=KF2EDGR-3.5-5P
+Change component parameters: Designator = "CN9" ("CN9"); Footprint = "CONN-TH_3P-P3.81_KF2EDGV-3.81-3P"; UniqueID = "\DCFBKCZS" ("\DCFBKCZS")
+Change component parameters (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Color"; Value = "ÂÌÉ«"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "°å¶Ë/²å×ù-±Õ¿Ú"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Max)"; Value = "8A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20191023/C441174_3952556C0659C22A17E7C4561A2B2291.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device"; Value = "KF2EDGR-3.5-5P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Name"; Value = "°å¶Ë/²å×ù-±Õ¿Ú 3.5mm ÅÅÊý:1 Ã¿ÅÅPÊý:5 ÍäÕë"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KEFA(¿Æ·¢)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part"; Value = "KF2EDGR-3.5-5P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Style"; Value = "ÍäÕë"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Name"; Value = "KF2EDGR-3.5-5P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of PINs Per Row"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-40¡æ~+105¡æ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Footprint"; Value = "P=3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part"; Value = "C441174"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Symbol"; Value = "KF2EDGR-3.5-5P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (Max)"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge - AWG"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge - mm?"; Value = "-"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=CN9-1
+Added Pin To Net: NetName=GND Pin=CN9-2
+Added Pin To Net: NetName=PA13 Pin=CN9-3
+Added Pin To Net: NetName=PA14 Pin=CN9-4
+Added Pin To Net: NetName=GND Pin=CN9-5

@@ -1,0 +1,31 @@
+Added Component: Designator=CN??(CONN-SMD_4P-P1.25-HC-1.25-4PWT)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Max)"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20210728/C2845379_48B7DC28A4B35DB030A7253F7C3FD974.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "HC-1.25-4PWT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "¹«ÐÍ²åÕë"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1.25mm 1x4P ÎÔÌù"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "HCTL(»ª²ÓÌìÂ»)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "HC-1.25-4PWT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "ÎÔÌù"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "HC-1.25-4PWT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25¡æ~+85¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD,P=1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2845381"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "HC-1.25-4PWT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CN??-1
+Added Pin To Net: NetName=PC6 Pin=CN??-2
+Added Pin To Net: NetName=PC7 Pin=CN??-3
+Added Pin To Net: NetName=5V Pin=CN??-4
+Added Net: Name=5V
+Added Member To Class: ClassName=Sheet1 Member=Component CN?? HC-1.25-4PWT
+Added Room: Name=Sheet1

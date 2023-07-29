@@ -1,0 +1,55 @@
+Added Component: Designator=FPC??(FPC-SMD_20P-P0.50_XUNPU_FPC-05F-20PH20)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "FPC-05F-20PH20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "20P 0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "XUNPU(Ñ¶ÆÕ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "FPC-05F-20PH20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "FPC-05F-20PH20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C2856803"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FPC-05F-20PH20"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=FPC??-1
+Added Pin To Net: NetName=GND Pin=FPC??-20
+Added Net: Name=GND
+Added Pin To Net: NetName=NetFPC??_2 Pin=FPC??-2
+Added Net: Name=NetFPC??_2
+Added Pin To Net: NetName=NetFPC??_3 Pin=FPC??-3
+Added Net: Name=NetFPC??_3
+Added Pin To Net: NetName=NetFPC??_4 Pin=FPC??-4
+Added Net: Name=NetFPC??_4
+Added Pin To Net: NetName=NetFPC??_5 Pin=FPC??-5
+Added Net: Name=NetFPC??_5
+Added Pin To Net: NetName=NetFPC??_6 Pin=FPC??-6
+Added Net: Name=NetFPC??_6
+Added Pin To Net: NetName=NetFPC??_7 Pin=FPC??-7
+Added Net: Name=NetFPC??_7
+Added Pin To Net: NetName=NetFPC??_8 Pin=FPC??-8
+Added Net: Name=NetFPC??_8
+Added Pin To Net: NetName=NetFPC??_9 Pin=FPC??-9
+Added Net: Name=NetFPC??_9
+Added Pin To Net: NetName=NetFPC??_10 Pin=FPC??-10
+Added Net: Name=NetFPC??_10
+Added Pin To Net: NetName=NetFPC??_11 Pin=FPC??-11
+Added Net: Name=NetFPC??_11
+Added Pin To Net: NetName=NetFPC??_12 Pin=FPC??-12
+Added Net: Name=NetFPC??_12
+Added Pin To Net: NetName=NetFPC??_13 Pin=FPC??-13
+Added Net: Name=NetFPC??_13
+Added Pin To Net: NetName=NetFPC??_14 Pin=FPC??-14
+Added Net: Name=NetFPC??_14
+Added Pin To Net: NetName=NetFPC??_15 Pin=FPC??-15
+Added Net: Name=NetFPC??_15
+Added Pin To Net: NetName=NetFPC??_16 Pin=FPC??-16
+Added Net: Name=NetFPC??_16
+Added Pin To Net: NetName=NetFPC??_17 Pin=FPC??-17
+Added Net: Name=NetFPC??_17
+Added Pin To Net: NetName=NetFPC??_18 Pin=FPC??-18
+Added Net: Name=NetFPC??_18
+Added Pin To Net: NetName=NetFPC??_19 Pin=FPC??-19
+Added Net: Name=NetFPC??_19
+Added Class: Name=Sheet1
+Added Room: Name=Sheet1
